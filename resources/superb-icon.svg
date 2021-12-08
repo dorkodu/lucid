@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   sodipodi:docname="superb-icon.svg.2021_12_08_19_51_19.0.svg"
-   inkscape:export-filename="/home/doruk/Desktop/superb-x.png"
+   sodipodi:docname="superb-icon.svg"
+   inkscape:export-filename="/home/doruk/Desktop/superb-icon.png"
    inkscape:export-xdpi="50.799999"
    inkscape:export-ydpi="50.799999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="162.63456"
-     inkscape:cy="194.80792"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="1.4142135"
+     inkscape:cy="313.2483"
      inkscape:window-width="1920"
      inkscape:window-height="971"
      inkscape:window-x="0"
@@ -53,7 +53,7 @@
          offset="0"
          id="stop149494" />
       <stop
-         style="stop-color:#6eb2f7;stop-opacity:1"
+         style="stop-color:#86d3f9;stop-opacity:1"
          offset="1"
          id="stop149496" />
     </linearGradient>
@@ -68,9 +68,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient149498"
        id="linearGradient1478"
-       x1="143.42725"
+       x1="141.0031"
        y1="86.528542"
-       x2="218.36949"
+       x2="220.9541"
        y2="86.528542"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-127.87641,-36.423912)" />
@@ -119,7 +119,7 @@
     <rect
        style="fill:url(#linearGradient1478);fill-opacity:1;stroke-width:0.264583"
        id="rect1371"
-       width="75.588608"
+       width="75.588997"
        height="76.945274"
        x="12.29887"
        y="11.631999"
