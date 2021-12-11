@@ -4,7 +4,7 @@
 
 ## About
 
-Superb is a collection of libraries for an awesome development experience.
+Superb is a collection of libraries for a creative, productive and enjoyable back-end development experience.
 
 > ##### `WORK IN PROGRESS`
 >
