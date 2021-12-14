@@ -10,7 +10,9 @@
 ## About
 
 Superb is a collection of libraries for a creative, productive and enjoyable development
-experience with PHP. At [Dorkodu](https://dorkodu.com), we wanted to have some "super" stuff for dealing with common
+experience with PHP. 
+
+At [Dorkodu](https://dorkodu.com), we wanted to have some "super" tools for dealing with common
 problems in backend world, so here what we built: **Superb**!
 
 This collection includes also…
